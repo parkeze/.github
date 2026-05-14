@@ -1,6 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@600&display=swap" rel="stylesheet">
-
-<table><tr><td><img src="./logo.png" height="60"></td><td><span style="font-family:'Outfit',sans-serif;font-size:2.2em;font-weight:600;vertical-align:middle;">Parkeze</span></td></tr></table>
+<p><img src="./logo.png" height="60" align="left">&nbsp;&nbsp;<span style="font-family:'Outfit',sans-serif;font-size:2.2em;font-weight:600;line-height:60px;">Parkeze</span></p>
 
 Parkeze is a smart parking infrastructure company focused on digitizing parking operations with real-time occupancy data.
 
